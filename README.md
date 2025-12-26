@@ -5,6 +5,8 @@ A cross-platform C graphics demo using [wgpu-native](https://github.com/gfx-rs/w
 > **Related Projects:**
 > - [wgpu-example](https://github.com/matthewjberger/wgpu-example) - Rust version
 > - [wgpu-example-odin](https://github.com/matthewjberger/wgpu-example-odin) - Odin version
+> - [wgpu-example-zig](https://github.com/matthewjberger/wgpu-example-zig) - Zig version
+
 
 ## Prerequisites
 
