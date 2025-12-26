@@ -1,6 +1,6 @@
 # C / SDL2 / WGPU Triangle
 
-A cross-platform C graphics demo using [wgpu-native](https://github.com/gfx-rs/wgpu-native) to render a spinning triangle. This is a port of the [wgpu-example-odin](https://github.com/matthewjberger/wgpu-example-odin) project.
+A cross-platform C graphics demo using [wgpu-native](https://github.com/gfx-rs/wgpu-native) to render a spinning triangle.
 
 > **Related Projects:**
 > - [wgpu-example](https://github.com/matthewjberger/wgpu-example) - Rust version
